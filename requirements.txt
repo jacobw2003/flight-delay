@@ -7,3 +7,4 @@ ipykernel
 statsmodels
 scipy
 scikit-learn
+xgboost
