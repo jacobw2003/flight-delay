@@ -6,3 +6,4 @@ jupyter
 ipykernel
 statsmodels
 scipy
+scikit-learn
